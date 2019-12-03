@@ -17,6 +17,11 @@ A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!).
 ### Launch Application
 Check out [this deployed version of the site](https://www.google.com/)
 
+### Architecture
+![Image description](https://raw.githubusercontent.com/mohak92/burger/master/public/assets/img/MVCExpress.png)
+
+![Design Pattern](https://raw.githubusercontent.com/mohak92/burger/master/public/assets/img/mvc-block-diagram.png)
+
 #### Directory structure
 
 ```
