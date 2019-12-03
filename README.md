@@ -15,7 +15,7 @@ A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!).
 * The app will store every burger in a database, whether devoured or not.
 
 ### Launch Application
-Check out [this deployed version of the site](https://www.google.com/)
+Check out [this deployed version of the site](https://guarded-stream-21327.herokuapp.com/)
 
 ### Architecture
 ![Image description](https://raw.githubusercontent.com/mohak92/burger/master/public/assets/img/MVCExpress.png)
