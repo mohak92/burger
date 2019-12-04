@@ -2,7 +2,7 @@
 
 ### Overview
 
-A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). FollowS the MVC design pattern; useD Node and MySQL to query and route data in the app, and Handlebars to generate HTML.
+A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). Follows the MVC design pattern; Used Node and MySQL to query and route data in the app, and Handlebars to generate HTML.
 
 ### Project Description
 
